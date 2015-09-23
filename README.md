@@ -7,6 +7,6 @@ This project features the source code that is developed to enhance CityGML LoD2 
 
 You can read more (and cite) the publication:
 
-> Automatically enhancing CityGML LOD2 models with a corresponding indoor geometry. Roeland Boeters, Ken Arroyo Ohori, Filip Biljecki and Sisi Zlatanova. *International Journal of Geographical Information Science*, 2015. In press. [ [PDF] ](https://3d.bk.tudelft.nl/ken/files/15_ijgis_roeland.pdf) [ [DOI] ](http://dx.doi.org/10.1080/13658816.2015.1072201)
+> Automatically enhancing CityGML LOD2 models with a corresponding indoor geometry. Roeland Boeters, Ken Arroyo Ohori, Filip Biljecki and Sisi Zlatanova. *International Journal of Geographical Information Science*29(12), December 2015, pp. 2248–2268. ISSN: 1365–8816 (Print), 1362–3087 (Online). [ [PDF] ](https://3d.bk.tudelft.nl/ken/files/15_ijgis_roeland.pdf) [ [DOI] ](http://dx.doi.org/10.1080/13658816.2015.1072201)
 
 The source code is built upon CGAL and therefore the [GPL](http://www.gnu.org/copyleft/gpl.html) applies to this project.
